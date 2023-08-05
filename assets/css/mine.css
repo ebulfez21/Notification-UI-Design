@@ -20,13 +20,13 @@
     box-shadow: 0px 24px 44px -20px rgba(194, 171, 229, 0.8);
     position: absolute;
   }
-  .text {
+  .icon-container{
       position: absolute;
       top: 42px;
       right: 42px;
       border-radius: 24px;
     }
-    .text:hover{
+    .icon-container:hover{
       background-color:#F4EDFF ;
     }
   .notification-text {
